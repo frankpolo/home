@@ -21,7 +21,7 @@ echo -e "Loading..."
 APP="CasaOS"
 var_disk="8"
 var_cpu="3"
-var_ram="6500"
+var_ram="6800"
 var_os="debian"
 var_version="12"
 variables
